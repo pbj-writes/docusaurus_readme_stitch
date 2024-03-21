@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/readme_stitch/__docusaurus/debug/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/', '133'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/config/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/config/', 'd4b'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/content/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/content/', 'be8'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/globalData/', '131'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/metadata/', '123'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/registry/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/registry/', 'b91'),
-    exact: true
-  },
-  {
-    path: '/readme_stitch/__docusaurus/debug/routes/',
-    component: ComponentCreator('/readme_stitch/__docusaurus/debug/routes/', 'cd5'),
-    exact: true
-  },
-  {
     path: '/readme_stitch/blog/',
     component: ComponentCreator('/readme_stitch/blog/', '8ea'),
     exact: true

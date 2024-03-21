@@ -451,7 +451,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.caeb7bc8.js",
-          "hash": "70e7fa1452c65cff",
+          "hash": "974ba3d62e74ce97",
           "publicPath": "/readme_stitch/assets/js/runtime~main.caeb7bc8.js"
         }
       ]
@@ -612,9 +612,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.23e5dad1.js",
-          "hash": "607c51049934b7d3",
-          "publicPath": "/readme_stitch/assets/js/main.23e5dad1.js"
+          "file": "assets/js/main.b9070ce4.js",
+          "hash": "50cea7fea1be316d",
+          "publicPath": "/readme_stitch/assets/js/main.b9070ce4.js"
         }
       ]
     },
