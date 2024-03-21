@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/docs/tutorial-basics/congratulations",
+  "permalink": "/readme_stitch/docs/tutorial-basics/congratulations",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/pbj-writes/readme_stitch/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/docs/tutorial-basics/deploy-your-site"
+    "permalink": "/readme_stitch/docs/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Repo 3",
-    "permalink": "/docs/category/repo-3"
+    "permalink": "/readme_stitch/docs/category/repo-3"
   }
 }
