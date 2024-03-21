@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pbj-writes', // Usually your GitHub org/user name.
   projectName: 'readme_stitch', // Usually your repo name.
-  deploymentBranch: 'gh-pages'
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

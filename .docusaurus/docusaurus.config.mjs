@@ -11,6 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "pbj-writes",
   "projectName": "readme_stitch",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
