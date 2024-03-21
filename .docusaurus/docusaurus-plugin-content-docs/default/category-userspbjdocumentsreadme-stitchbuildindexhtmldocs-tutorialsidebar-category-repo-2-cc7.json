@@ -1,0 +1,16 @@
+{
+  "title": "Repo 2",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/repo-2",
+  "permalink": "/index.html/docs/category/repo-2",
+  "navigation": {
+    "previous": {
+      "title": "Repo 1",
+      "permalink": "/index.html/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/index.html/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
