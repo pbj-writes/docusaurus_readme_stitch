@@ -1,0 +1,15 @@
+{
+  "title": "Repo 3",
+  "slug": "/category/repo-3",
+  "permalink": "/readme_stitch/docs/category/repo-3",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/readme_stitch/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/readme_stitch/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

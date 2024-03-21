@@ -1,0 +1,15 @@
+{
+  "title": "Repo 3",
+  "slug": "/category/repo-3",
+  "permalink": "/index.html/docs/category/repo-3",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/index.html/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/index.html/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

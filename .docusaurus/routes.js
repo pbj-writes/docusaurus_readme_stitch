@@ -3,175 +3,140 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '9aa'),
+    path: '/readme_stitch/blog/',
+    component: ComponentCreator('/readme_stitch/blog/', '8ea'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '7e5'),
+    path: '/readme_stitch/blog/archive/',
+    component: ComponentCreator('/readme_stitch/blog/archive/', 'c11'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '761'),
+    path: '/readme_stitch/blog/first-blog-post/',
+    component: ComponentCreator('/readme_stitch/blog/first-blog-post/', '3ef'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '592'),
+    path: '/readme_stitch/blog/long-blog-post/',
+    component: ComponentCreator('/readme_stitch/blog/long-blog-post/', '687'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '369'),
+    path: '/readme_stitch/blog/mdx-blog-post/',
+    component: ComponentCreator('/readme_stitch/blog/mdx-blog-post/', 'aec'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'd71'),
+    path: '/readme_stitch/blog/tags/',
+    component: ComponentCreator('/readme_stitch/blog/tags/', 'f17'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '105'),
+    path: '/readme_stitch/blog/tags/docusaurus/',
+    component: ComponentCreator('/readme_stitch/blog/tags/docusaurus/', '96d'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '2bb'),
+    path: '/readme_stitch/blog/tags/facebook/',
+    component: ComponentCreator('/readme_stitch/blog/tags/facebook/', '2fb'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '9f8'),
+    path: '/readme_stitch/blog/tags/hello/',
+    component: ComponentCreator('/readme_stitch/blog/tags/hello/', 'b18'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'b7a'),
+    path: '/readme_stitch/blog/tags/hola/',
+    component: ComponentCreator('/readme_stitch/blog/tags/hola/', '855'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'dbd'),
+    path: '/readme_stitch/blog/welcome/',
+    component: ComponentCreator('/readme_stitch/blog/welcome/', '536'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '652'),
+    path: '/readme_stitch/markdown-page/',
+    component: ComponentCreator('/readme_stitch/markdown-page/', '8bd'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '3ee'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'c56'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '344'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'a59'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '0bb'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '002'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '24a'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'b5b'),
+    path: '/readme_stitch/docs/',
+    component: ComponentCreator('/readme_stitch/docs/', 'f97'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '127'),
+        path: '/readme_stitch/docs/',
+        component: ComponentCreator('/readme_stitch/docs/', 'd56'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '523'),
+            path: '/readme_stitch/docs/',
+            component: ComponentCreator('/readme_stitch/docs/', '0f9'),
             routes: [
               {
-                path: '/docs/category/repo-2',
-                component: ComponentCreator('/docs/category/repo-2', '9ae'),
+                path: '/readme_stitch/docs/category/repo-2/',
+                component: ComponentCreator('/readme_stitch/docs/category/repo-2/', 'acf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/repo-3',
-                component: ComponentCreator('/docs/category/repo-3', 'ee9'),
+                path: '/readme_stitch/docs/category/repo-3/',
+                component: ComponentCreator('/readme_stitch/docs/category/repo-3/', '597'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                path: '/readme_stitch/docs/intro/',
+                component: ComponentCreator('/readme_stitch/docs/intro/', '29b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+                path: '/readme_stitch/docs/tutorial-basics/congratulations/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/congratulations/', 'b96'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+                path: '/readme_stitch/docs/tutorial-basics/create-a-blog-post/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/create-a-blog-post/', 'b7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+                path: '/readme_stitch/docs/tutorial-basics/create-a-document/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/create-a-document/', 'b64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+                path: '/readme_stitch/docs/tutorial-basics/create-a-page/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/create-a-page/', '325'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+                path: '/readme_stitch/docs/tutorial-basics/deploy-your-site/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/deploy-your-site/', 'db2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+                path: '/readme_stitch/docs/tutorial-basics/markdown-features/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-basics/markdown-features/', '7bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/readme_stitch/docs/tutorial-extras/manage-docs-versions/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-extras/manage-docs-versions/', '207'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/readme_stitch/docs/tutorial-extras/translate-your-site/',
+                component: ComponentCreator('/readme_stitch/docs/tutorial-extras/translate-your-site/', '146'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -182,8 +147,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'ef7'),
+    path: '/readme_stitch/',
+    component: ComponentCreator('/readme_stitch/', '62a'),
     exact: true
   },
   {

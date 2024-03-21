@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/docs/tutorial-basics/create-a-page",
+  "permalink": "/readme_stitch/docs/tutorial-basics/create-a-page",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/pbj-writes/readme_stitch/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Repo 2",
-    "permalink": "/docs/category/repo-2"
+    "permalink": "/readme_stitch/docs/category/repo-2"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "permalink": "/readme_stitch/docs/tutorial-basics/create-a-document"
   }
 }

@@ -11,12 +11,13 @@ const config = {
   title: 'README Stitch',
   tagline: 'Just stitch it',
   favicon: 'img/favicon.ico',
+  trailingSlash: true,
 
   // Set the production url of your site here
   url: 'https://pbj-writes.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '//readme_stitch'',
+  baseUrl: '/readme_stitch',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

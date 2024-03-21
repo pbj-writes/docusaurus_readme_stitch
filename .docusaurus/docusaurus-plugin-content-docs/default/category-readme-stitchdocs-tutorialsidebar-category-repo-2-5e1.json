@@ -1,0 +1,16 @@
+{
+  "title": "Repo 2",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/repo-2",
+  "permalink": "/readme_stitch/docs/category/repo-2",
+  "navigation": {
+    "previous": {
+      "title": "Repo 1",
+      "permalink": "/readme_stitch/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/readme_stitch/docs/tutorial-basics/create-a-page"
+    }
+  }
+}
